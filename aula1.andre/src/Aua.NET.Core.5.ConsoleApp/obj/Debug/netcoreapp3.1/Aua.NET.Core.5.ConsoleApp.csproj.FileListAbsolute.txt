@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.exe
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.deps.json
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.runtimeconfig.json
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.dll
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\bin\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.pdb
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.AssemblyInfo.cs
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.dll
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.pdb
+C:\Users\Dan\Documents\GrupoFleury\aula.andre\src\Aua.NET.Core.5.ConsoleApp\obj\Debug\netcoreapp3.1\Aua.NET.Core.5.ConsoleApp.genruntimeconfig.cache
